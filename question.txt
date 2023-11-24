@@ -1,0 +1,196 @@
+
+below is the text-based windows captured from screen shot for each section, there are 19 windows below, you can modify the code as needed. 1) Login menu: DOTNET Hospital Management System
+Login
+ID: 13267Password:Valid Credentials
+2) Patient menu: DOTNET Hospital Management System
+Patient Menu
+delcome to DOTNET Hospital Management System david patientson
+Please choose an option:
+List patient details
+List my doctor details
+List all appointments
+Book appointment
+Exit to login
+Exit System
+3) List patient details: DOTNET Hospital Management System
+My Details
+david patientson's Details
+Patient ID: 13267Full Name: david patientsonAddress 19 Real Street,Sydney，NSWEmail: daveyd67@gmail.comPhone: 0412456876
+4) List my doctor details: DOTNET Hospital Management System
+My Doctor
+ourdoctor:
+ame
+jackdoctorson
+Email Address
+drjackagmail.Con
+Phone
+Address
+041233367623 Real street, Sydney , NSW
+5) List all appointments: DOTNET Hospital Management System
+My Appointments
+Appointments for david patientson
+Doctor
+jack doctorson
+jack doctorson
+Patient
+david patientson
+david patientson
+Description
+cold symptoms
+regular checkup with doc
+6) book appointment: DOTNET Hospital Management System
+Book Appointment
+ou are not registered with any doctor! please choose which doctor you would like to register withdavid doctorson drdavidogmail.com  0412456876 19 Real Street, Sydney, NSWjack doctorson drjackagmail .com0412333676| 23 Real street, sydney， NSW
+ease choose a doctor:
+ou are booking a new appointment with david doctorsonescription of the appointment: got the fluhe appointment has been booked successfully
+DOTNET Hospital Management System
+Book Appointment
+You are booking a new appointment with david doctorsonDescription of the appointment: flu againThe appointment has been booked successfully
+7) doctor menu: DOTNET Hospital Management System
+Doctor Menu
+Welcome to DOTNET Hospital Management System jack doctorson
+Please choose an option:
+List doctor details
+List patients
+List appointments
+Check particular patientList appointments with patientLogout
+Exit
+8) list doctor details: DOTNET HospitalManagement System
+Details
+ame
+jackdoctorson
+Email Address
+drjacKagma1 .co
+Phone
+Address
+0412333676 23 Real street,Sydney ,NSW
+9) List patients: DOTNET Hospital Management System
+---------------------------------
+My Patients
+Patients assigned to jack doctorson:
+Patient
+Davey flu
+Doctor
+jack doctorson
+Email Address
+davidedavid.com
+Phone
+Address
+0412341234 | 12 Real Place, Sydney, NSw
+10) List appoitnments: DOTNET Hospital Management System
+All Appointments
+Doctor
+jack doctorson
+jack doctorson
+Patient
+david patientson
+Davey Flu
+Description
+regular checkup with doc
+covid
+11) check particular patient: DOTNET Hospital Management System
+Check Patient Details
+Enter the ID of the patient to check: 13267
+Patient
+Doctor
+---------david patientsonjack doctorson
+Email Address
+daveyd67@gmail.com
+Phone
+Address
+0412456876 19 Real street， Sydney， NSW
+12) List appointsment with patient: DOTNET Hospital Management System
+Appointments with
+Enter the ID of the patient you would like to view appointments for: 83618
+Doctor
+jack doctorson
+Patient
+Davey Flu
+Description
+covid
+13) adminstrator menu: DOTNET Hospital Management System
+Administrator Menu
+dlelcome to DOTNET Hospital Management System david adminson
+lease choose an option:List all doctorsCheck doctor detailsList all patientsCheck patient detailsAdd doctorAdd patientLogoutExit
+14) List all doctors: DOTNET Hospital Management System
+All Doctors
+All doctors registered to the DOTNET Hospital Management System
+Name
+Email Address
+phone
+Address
+------
+david doctorsonjack doctorson
+drdavidagmail.comdrjackogmail.com
+0412456876
+0412333676
+19 Real
+23 Real
+Street ,
+Sydney
+NS
+Sydney，NSh
+Street,
+15) check doctor details: DOTNET Hospital Management System
+Doctor Details
+please enter the ID of the doctor who's details you are checking. Or press n to return to menu32423
+Details for jack doctorson
+Name
+jack doctorson
+Email Address
+drjack@gmail.com
+Phone
+Address
+0412333676 23 Real street， Sydney， NSW
+16) List all patinets: DOTNET Hospital Management Syster
+------------
+--------------------
+All Patients
+4ll patients registered to the DOTNET Hospital Management System
+Patient
+david patientsonDaveyFlu
+Doctor
+jack doctorsonjackdoctorson
+Email Address
+daveyd67@gmail.comdavidadavid.con
+Phone
+Address
+19RealStreet,Sydney，NSl941245687684123412341RealPlace,Sydney，NSl
+17) check patient details: DOTNET Hospital Management System
+-----------------------------------
+Patient Details
+please enter the D of the patient who's details you arechecking.83618
+Or press n to return to menu
+Details for Davey Flu
+Doctor
+atient
+Email Address
+Address
+phone
+------------------------------------------
+LLCLLLLALLAALAAAALAAAEAA
+CACLLLLLLLAALELEA
+ALLCAAAE
+1111111
+Davey Flu
+ jack doctorson
+davidodavid.com
+ 0412341234 ] 12 Real place, Sydney，NSW
+18) add doctor: DOTNET Hospital Management System
+Add Doctor
+First Name: Dr
+Registering a new doctor with the DOTNET Hospital Management System
+Last Name: vinash
+Email: avinashadnhms .com
+Phone: 04123123
+street Number: 45Street: Real placecity: SydneyState: NSW
+Dr Avinash added to the system!
+19) add patient: DOTNET Hospital Management System
+Add Patient
+First Name: Davey
+Registering a new patient with the DOTNET Hospital Management System
+Last Name: Flu
+Email: verysick@gmail .comPhone: 04123123Street Number: 87placeStreet: Real
+City: Sydney
+State: NSW
+Davey Flu added to the system!

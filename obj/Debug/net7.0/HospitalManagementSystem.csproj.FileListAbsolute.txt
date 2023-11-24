@@ -1,0 +1,15 @@
+/Users/zhigangmo/Downloads/september/HospitalManagementSystem/bin/Debug/net7.0/HospitalManagementSystem
+/Users/zhigangmo/Downloads/september/HospitalManagementSystem/bin/Debug/net7.0/HospitalManagementSystem.deps.json
+/Users/zhigangmo/Downloads/september/HospitalManagementSystem/bin/Debug/net7.0/HospitalManagementSystem.runtimeconfig.json
+/Users/zhigangmo/Downloads/september/HospitalManagementSystem/bin/Debug/net7.0/HospitalManagementSystem.dll
+/Users/zhigangmo/Downloads/september/HospitalManagementSystem/bin/Debug/net7.0/HospitalManagementSystem.pdb
+/Users/zhigangmo/Downloads/september/HospitalManagementSystem/obj/Debug/net7.0/HospitalManagementSystem.csproj.AssemblyReference.cache
+/Users/zhigangmo/Downloads/september/HospitalManagementSystem/obj/Debug/net7.0/HospitalManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zhigangmo/Downloads/september/HospitalManagementSystem/obj/Debug/net7.0/HospitalManagementSystem.AssemblyInfoInputs.cache
+/Users/zhigangmo/Downloads/september/HospitalManagementSystem/obj/Debug/net7.0/HospitalManagementSystem.AssemblyInfo.cs
+/Users/zhigangmo/Downloads/september/HospitalManagementSystem/obj/Debug/net7.0/HospitalManagementSystem.csproj.CoreCompileInputs.cache
+/Users/zhigangmo/Downloads/september/HospitalManagementSystem/obj/Debug/net7.0/HospitalManagementSystem.dll
+/Users/zhigangmo/Downloads/september/HospitalManagementSystem/obj/Debug/net7.0/refint/HospitalManagementSystem.dll
+/Users/zhigangmo/Downloads/september/HospitalManagementSystem/obj/Debug/net7.0/HospitalManagementSystem.pdb
+/Users/zhigangmo/Downloads/september/HospitalManagementSystem/obj/Debug/net7.0/HospitalManagementSystem.genruntimeconfig.cache
+/Users/zhigangmo/Downloads/september/HospitalManagementSystem/obj/Debug/net7.0/ref/HospitalManagementSystem.dll

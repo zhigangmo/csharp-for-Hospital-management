@@ -1,0 +1,12 @@
+Patient Menu
+    List Patient Details 1
+    List My Doctor Details 1 
+    List All Appointments 1 
+    Book Appointment, functionality including creating Appointment object and writing to txt file
+
+Doctor Menu
+    List Doctor Details 1
+    List Patients 1 
+    List Appointments 1 
+    Check Particular Patient 2
+    List Appointments With Patient 2
